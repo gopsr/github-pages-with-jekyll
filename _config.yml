@@ -1,5 +1,5 @@
 ---
-title: "My First Blog"
+title: My First Blog
 date: 2018-10-05
 ---
 title: Gopz Page
@@ -8,7 +8,7 @@ email: gopsr@testdomain.com
 description: > # this means to ignore newlines until "baseurl:"
   my journey thru git and creating my breadcrummb trail here.
   for any wanting to trace this to learn the awesome git tool
-  here is a encouraging page.. Hip Hip Hurray
+  here is a encouraging page.. Hip Hip Hurray!!!
 
 # social links
 twitter_username: your-twitter-handle
